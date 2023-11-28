@@ -1,0 +1,6 @@
+<configuration>
+	<property>
+		<name>fs.file.impl.disable.cache</name>
+		<value>true</value>
+	</property>
+</configuration>
